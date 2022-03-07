@@ -1,0 +1,32 @@
+*{
+  background-color: black;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: 500px;
+
+}
+p{
+  color: orange;
+}
+
+h2{
+  color: red;
+  font-size: 25px;
+}
+
+ul{
+  color: orange;
+}
+
+ol{
+  color: orange;
+}
+
+div{
+  background: blue;
+}
